@@ -2,8 +2,8 @@ const resumeData = {
     name: "Priyanshu",
     summary: "Cybersecurity professional with over 5 years’ experience in network security, digital forensics, and incident response. Demonstrates hands-on expertise in configuring firewalls, IDS/IPS systems, and advanced security tools to optimize network performance and minimize threats. Proven track record in conducting thorough risk assessments and implementing robust defense measures aligned with industry standards and compliance requirements.",
     education: [
+        { institution: "Chandigarh University", degree: "Master's degree, MCA" }
         { institution: "Kurukshetra University", degree: "Bachelor's degree, BCA" },
-        { institution: "D.A.V. Public School - India", degree: "High School Diploma" }
     ],
     experience: [
         { company: "Grey Shield", role: "Cyber Security Analysts", duration: "Oct 2023 - Present" },
